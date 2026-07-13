@@ -163,6 +163,19 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 
 </td>
 </tr>
+<br/>
+
+## 🌐 Veltrex.Devs
+
+**Official Website**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Groq AI`
+
+The official website of **Veltrex.Devs** showcasing our services, products, founders, and AI-powered assistant **Vexa** with a modern, responsive, and premium user experience.
+
+### 🔗 Live Website
+
+**https://veltrex.co.in**
 </table>
 
 <br/>
