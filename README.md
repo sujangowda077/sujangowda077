@@ -154,7 +154,7 @@ An IoT security system using real-time facial recognition for automated access c
 
 A modern bookmark manager with workspaces, smart search, drag-and-drop organization, and a glassmorphic, theme-aware dashboard — including automatic categorization, link health monitoring, and productivity-focused workflows.
 
-[`Repository`](https://github.com/sujangowda077/sujangowda077)
+[`Repository`](https://github.com/sujangowda077/vexabookmarks)
 
 </td>
 <td width="50%" valign="top">
