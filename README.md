@@ -96,7 +96,6 @@ looking_for:   Software Engineering / AI / ML / Data Science Internships
 <td width="50%" valign="top">
 
 ### SideQuest
-
 **Hyper-Local Campus Service Web App**
 
 `React.js` `Flask` `Supabase` `Tailwind CSS`
@@ -109,7 +108,6 @@ A gamified campus ecosystem platform streamlining food delivery and print orderi
 <td width="50%" valign="top">
 
 ### Botanica
-
 **AI Computer Vision Plant Identification**
 
 `React.js` `Flask` `TensorFlow` `Supabase` `Plant.id API`
@@ -124,7 +122,6 @@ An AI-powered image classification system identifying plant species from camera 
 <td width="50%" valign="top">
 
 ### MindMate
-
 **AI Health & Wellness Chatbot**
 
 `Flask` `Google Gemini API` `HTML` `CSS` `JavaScript`
@@ -137,7 +134,6 @@ A context-aware AI chatbot powered by the Google Gemini API, with NLP workflows 
 <td width="50%" valign="top">
 
 ### Smart Access — Facial Recognition Security
-
 **IoT-Based Access Control System** · `In Development`
 
 `ESP32` `OpenCV` `Python` `Deep Learning` `Hardware Integration`
@@ -152,7 +148,6 @@ An IoT security system using real-time facial recognition for automated access c
 <td width="50%" valign="top">
 
 ### VexaBookmarks
-
 **AI-Inspired Bookmark Management Platform** · `In Development`
 
 `JavaScript` `Chrome Extension API` `IndexedDB` `Canvas API`
@@ -181,7 +176,7 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=sujangowda077&theme=dark&hide_border=true&background=0d1117&stroke=8B8BF5&ring=8B8BF5&fire=8B8BF5&currStreakLabel=c9c9d9&sideLabels=c9c9d9&dates=6b6b80" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=sujangowda077&theme=tokyonight&hide_border=true&background=0D1117" width="49%"/>
 
 </div>
 
@@ -201,7 +196,7 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 
 ### Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=sujangowda077&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+<img src="https://github-profile-trophy.vercel.app/?username=sujangowda077&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
@@ -209,12 +204,21 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 
 ## Certifications & Achievements
 
-> Add entries here as you complete them — format kept consistent so new rows drop in cleanly.
+| Certification | Issued By | Year |
+|---|---|---:|
+| Google Cloud Career Launchpad – Cloud Engineer Track | Google Cloud | 2025 |
+| AWS Cloud Practitioner Training | Amazon Web Services | 2026 |
+| AWS AI Practitioner Training | Amazon Web Services | 2026 |
+| AWS Developer Associate Training | Amazon Web Services | 2026 |
+| AWS Solutions Architect Associate Training | Amazon Web Services | 2026 |
 
-| Certification / Achievement            | Issuer                 | Year   |
-| -------------------------------------- | ---------------------- | ------ |
-| *e.g. Machine Learning Specialization* | *e.g. DeepLearning.AI* | *20XX* |
-| *e.g. Hackathon — Finalist / Winner*   | *e.g. Event name*      | *20XX* |
+### Professional Training
+
+- Google Cloud Career Launchpad – Cloud Engineer Track
+- AWS Cloud Practitioner
+- AWS AI Practitioner
+- AWS Developer Associate
+- AWS Solutions Architect Associate
 
 <br/>
 
@@ -249,9 +253,9 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 
 ## Fun Facts
 
-* I prototype fastest in Python, then take the working idea to a production stack.
-* I like projects that touch the physical world — the ESP32 facial-recognition access system is my current favorite for exactly that reason.
-* Glassmorphism and dark UIs aren't just a preference — they show up in almost everything I build, including this README.
+- I prototype fastest in Python, then take the working idea to a production stack.
+- I like projects that touch the physical world — the ESP32 facial-recognition access system is my current favorite for exactly that reason.
+- Glassmorphism and dark UIs aren't just a preference — they show up in almost everything I build, including this README.
 
 <br/>
 
