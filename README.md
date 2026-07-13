@@ -166,7 +166,7 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 
 The official website of **Veltrex.Devs**, showcasing our services, products, founders, and AI assistant **Vexa** through a modern, responsive, and premium user experience.
 
-[`Repository`](https://github.com/sujangowda077/veltrex-labs) · [`Live Website`](https://veltrex.co.in)
+[`Repository`](https://github.com/sujangowda077/veltrex) · [`Live Website`](https://veltrex.co.in)
 
 </td>
 </tr>
