@@ -171,8 +171,8 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sujangowda077&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B8BF5&icon_color=8B8BF5&text_color=c9c9d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujangowda077&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B8BF5&text_color=c9c9d9&langs_count=8" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujangowda077&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujangowda077&show_icons=true&theme=tokyonight" />
 
 <br/>
 
@@ -191,14 +191,6 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 </div>
 
 <br/>
-
-<div align="center">
-
-### Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=sujangowda077&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
 
 <br/>
 
