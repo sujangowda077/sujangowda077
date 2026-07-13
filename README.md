@@ -159,23 +159,18 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 </td>
 <td width="50%" valign="top">
 
-<br/>
+### 🌐 Veltrex.Devs
+**Official Company Website**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Groq API`
+
+The official website of **Veltrex.Devs**, showcasing our services, products, founders, and AI assistant **Vexa** through a modern, responsive, and premium user experience.
+
+[`Repository`](https://github.com/sujangowda077/veltrex-labs) · [`Live Website`](https://veltrex.co.in)
 
 </td>
 </tr>
-<br/>
 
-## 🌐 Veltrex.Devs
-
-**Official Website**
-
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Groq AI`
-
-The official website of **Veltrex.Devs** showcasing our services, products, founders, and AI-powered assistant **Vexa** with a modern, responsive, and premium user experience.
-
-### 🔗 Live Website
-
-**https://veltrex.co.in**
 </table>
 
 <br/>
