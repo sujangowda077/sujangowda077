@@ -102,7 +102,7 @@ looking_for:   Software Engineering / AI / ML / Data Science Internships
 
 A gamified campus ecosystem platform streamlining food delivery and print ordering. Built concurrent-order-safe REST APIs in Flask, integrated Supabase for authentication and real-time state, and shipped a responsive tracking-first frontend.
 
-[`Repository`](https://github.com/YOUR_GITHUB_USERNAME/sidequest) · [`Live Demo`](https://your-sidequest-demo-url.example.com)
+[`Repository`](https://github.com/sujangowda077/sidequest-main) · [`Live Demo`](https://sidequest26.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -114,7 +114,7 @@ A gamified campus ecosystem platform streamlining food delivery and print orderi
 
 An AI-powered image classification system identifying plant species from camera input, returning top 3–5 matches with confidence scores plus dynamic care guides for water, sunlight, and soil needs.
 
-[`Repository`](https://github.com/YOUR_GITHUB_USERNAME/botanica) · [`Live Demo`](https://your-botanica-demo-url.example.com)
+[`Repository`](https://github.com/sujangowda077/plantid) · [`Live Demo`](https://plantid-six.vercel.app/)
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ An AI-powered image classification system identifying plant species from camera 
 
 A context-aware AI chatbot powered by the Google Gemini API, with NLP workflows to detect symptoms and surface nutrition data through a lightweight, responsive interface.
 
-[`Repository`](https://github.com/YOUR_GITHUB_USERNAME/mindmate)
+[`Repository`](https://github.com/sujangowda077/mindmate-chatbot)
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +140,7 @@ A context-aware AI chatbot powered by the Google Gemini API, with NLP workflows 
 
 An IoT security system using real-time facial recognition for automated access control — an ESP32-CAM module feeding a Python backend for low-latency video capture, triggering a 12V DC motor mechanism on verified identity.
 
-[`Repository`](https://github.com/YOUR_GITHUB_USERNAME/smart-access-security)
+[`Repository`](https://github.com/sujangowda077/face-recognition-door-lock-)
 
 </td>
 </tr>
@@ -171,12 +171,12 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B8BF5&icon_color=8B8BF5&text_color=c9c9d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B8BF5&text_color=c9c9d9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sujangowda077&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B8BF5&icon_color=8B8BF5&text_color=c9c9d9&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujangowda077&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B8BF5&text_color=c9c9d9&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=8B8BF5&ring=8B8BF5&fire=8B8BF5&currStreakLabel=c9c9d9&sideLabels=c9c9d9&dates=6b6b80" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujangowda077&theme=dark&hide_border=true&background=0d1117&stroke=8B8BF5&ring=8B8BF5&fire=8B8BF5&currStreakLabel=c9c9d9&sideLabels=c9c9d9&dates=6b6b80" width="49%"/>
 
 </div>
 
@@ -186,23 +186,7 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 
 ### Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B8BF5&line=8B8BF5&point=c9c9d9&area=true&area_color=8B8BF5" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-*Generated automatically by the GitHub Action in `.github/workflows/snake.yml` — see the deployment guide below.*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujangowda077&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B8BF5&line=8B8BF5&point=c9c9d9&area=true&area_color=8B8BF5" width="100%"/>
 
 </div>
 
@@ -212,7 +196,7 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 
 ### Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+<img src="https://github-profile-trophy.vercel.app/?username=sujangowda077&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" />
 
 </div>
 
@@ -233,13 +217,13 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/sujan-gowda-s-24a0442b1/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:gowdasujan37@gmail.com">
   <img src="https://img.shields.io/badge/Email-8B8BF5?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/sujangowda077">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://YOUR_PORTFOLIO_URL.example.com">
@@ -268,7 +252,7 @@ A modern bookmark manager with workspaces, smart search, drag-and-drop organizat
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=8b8bf5&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=sujangowda077&style=for-the-badge&color=8b8bf5&label=Profile+Views" />
 
 </div>
 
